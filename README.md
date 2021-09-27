@@ -1,2 +1,1 @@
-# dayBefore-Py-WORM
-Compute the day before a given day on the proleptic Gregorian calendar
+[README](https://github.com/dmparrishphd/dayBefore-Py/blob/main/README.md).
